@@ -1,0 +1,22 @@
+{
+  "code": 1,
+  "data": {
+    "adDetail": {
+      "id": 1,
+      "name": "永川小面",
+      "addressArr": [
+        "重庆",
+        "永川"
+      ],
+      "flowValue": 2,
+      "typeValue": 3,
+      "sizeValue": 1,
+      "time1Value": 5,
+      "time2Value": 9,
+      "priceValue": 89,
+      "detailContent": "",
+      "time": "2019-04-18 18:00:19",
+      "issuer": "Twist Chen"
+    }
+  }
+}

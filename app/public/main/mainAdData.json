@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "info_id": 7,
+      "images": [],
+      "address": "西安",
+      "type": "超市",
+      "tel": "123",
+      "maxArea": "test",
+      "exposureHour": 2,
+      "exposureDay": 3,
+      "traffic": 2,
+      "price": "100.00",
+      "content": "还可以"
+    },
+    {
+      "info_id": 1,
+      "images": [
+        {
+          "image": "http://localhost:4433/adChina/images/bf096b63f6246b60dd39eb74e0f81a4c510fa2ff.jpg"
+        },
+        {
+          "image": "http://localhost:4433/adChina/images/bf096b63f6246b60dd39eb74e0f81a4c510fa2ff.jpg"
+        }
+      ],
+      "address": "重庆永川光彩大道500号",
+      "type": "小摊2",
+      "tel": "17749988543",
+      "maxArea": "40cm*40cm",
+      "exposureHour": 7,
+      "exposureDay": 7,
+      "traffic": 6,
+      "price": "200.00",
+      "content": "我这个人流量不错"
+    },
+    {
+      "info_id": 6,
+      "images": [
+        {
+          "image": "http://localhost:4433/adChina/images/bf096b63f6246b60dd39eb74e0f81a4c510fa2ff.jpg"
+        }
+      ],
+      "address": "重庆永",
+      "type": "小摊",
+      "tel": "17749988543",
+      "maxArea": "40cm*40cm",
+      "exposureHour": 8,
+      "exposureDay": 6,
+      "traffic": 500,
+      "price": "150.00",
+      "content": "我这个人流量不错"
+    },
+    {
+      "info_id": 5,
+      "images": [],
+      "address": "重庆2",
+      "type": "123",
+      "tel": "123",
+      "maxArea": "123",
+      "exposureHour": 1,
+      "exposureDay": 1,
+      "traffic": 5,
+      "price": "213.00",
+      "content": "123123"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "data": [
+    {
+      "info_id": 1,
+      "type": "小摊",
+      "tel": "17749988555",
+      "maxArea": "20cm*40cm",
+      "exposureHour": 7,
+      "exposureDay": 7,
+      "traffic": 600,
+      "price": "500.00",
+      "content": "诚心要"
+    },
+    {
+      "info_id": 3,
+      "type": "超市2",
+      "tel": "17749988555",
+      "maxArea": "30cm*30cm",
+      "exposureHour": 7,
+      "exposureDay": 7,
+      "traffic": 400,
+      "price": "1000.00",
+      "content": "诚心需要一个超市广告位"
+    }
+  ]
+}

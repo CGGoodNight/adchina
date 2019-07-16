@@ -1,0 +1,48 @@
+{
+  "data": [
+    {
+      "info_id": 3,
+      "type": "超市2",
+      "tel": "17749988555",
+      "minArea": "30cm*30cm",
+      "exposureHour": 7,
+      "exposureDay": 7,
+      "traffic": 400,
+      "price": "1000.00",
+      "content": "诚心需要一个超市广告位"
+    },
+    {
+      "info_id": 4,
+      "type": "小摊3",
+      "tel": "98765432100",
+      "minArea": "40cm*30cm",
+      "exposureHour": 7,
+      "exposureDay": 6,
+      "traffic": 300,
+      "price": "200.00",
+      "content": "我需要流量大的"
+    },
+    {
+      "info_id": 1,
+      "type": "小摊",
+      "tel": "17749988555",
+      "minArea": "20cm*40cm",
+      "exposureHour": 7,
+      "exposureDay": 7,
+      "traffic": 600,
+      "price": "500.00",
+      "content": "诚心要"
+    },
+    {
+      "info_id": 2,
+      "type": "小摊1",
+      "tel": "12345678910",
+      "minArea": "30cm*30cm",
+      "exposureHour": 6,
+      "exposureDay": 6,
+      "traffic": 700,
+      "price": "400.00",
+      "content": "推好的广告"
+    }
+  ]
+}

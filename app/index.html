@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <title>Ad China</title>
+    <script>
+        function isMobile() {
+            var userAgent = window.navigator.userAgent;
+            console.log(userAgent);
+            var mobileAgents = new Array("Android", "iPhone", "SymbianOS", "Windows Phone");
+
+            var flag = false;
+
+            for (let i = 0; i < mobileAgents.length; i++) {
+                if (userAgent.indexOf(mobileAgents[i]) > -1) {
+                    flag = true;
+                    break;
+                }
+            }
+            return flag;
+        }
+        if (isMobile()) {
+            window.location.href = 'https://m.adchina.club';
+            console.log(666);
+        }
+
+    </script>
+</head>
+
+<body>
+    <div id="root" class="root"></div>
+</body>
+
+</html>

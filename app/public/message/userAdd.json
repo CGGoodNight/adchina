@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "info_id": 1,
+      "images": [
+        {
+          "image": "http://localhost:4433/adChina/images/bf096b63f6246b60dd39eb74e0f81a4c510fa2ff.jpg"
+        },
+        {
+          "image": "http://localhost:4433/adChina/images/bf096b63f6246b60dd39eb74e0f81a4c510fa2ff.jpg"
+        }
+      ],
+      "address": "重庆/永川",
+      "type": "小摊",
+      "tel": "17749988555",
+      "minArea": "20cm*40cm",
+      "exposureHour": 7,
+      "exposureDay": 7,
+      "traffic": 600,
+      "price": "500.00",
+      "content": "诚心要"
+    },
+    {
+      "info_id": 3,
+      "images": [],
+      "type": "超市",
+      "address": "重庆/永川",
+      "tel": "17749988555",
+      "minArea": "30cm*30cm",
+      "exposureHour": 7,
+      "exposureDay": 7,
+      "traffic": 400,
+      "price": "1000.00",
+      "content": "诚心需要一个超市广告位"
+    }
+  ]
+}

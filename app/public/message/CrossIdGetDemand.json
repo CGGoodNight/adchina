@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "info_id": 1,
+      "type": "小摊",
+      "tel": "17749988555",
+      "maxArea": "20cm*40cm",
+      "exposureHour": 7,
+      "exposureDay": 7,
+      "traffic": 600,
+      "price": "500.00",
+      "content": "诚心要"
+    }
+  ]
+}

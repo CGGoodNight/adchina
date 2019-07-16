@@ -1,0 +1,103 @@
+.wrapper-home-title {
+  margin: 20px 0;
+  height: 40px;
+  border-bottom: 4px solid #ff552e;
+  position: relative;
+}
+
+.wrapper-home-title h2 {
+  float: left;
+  font-size: 22px;
+  color: #525252;
+  color: rgba(0, 0, 0, 0.68);
+  line-height: 22px;
+  padding-bottom: 18px;
+  position: relative;
+}
+
+.wrapper-home-title .more-btn {
+  float: right;
+  color: #8A8A8A;
+  color: rgba(0, 0, 0, 0.46);
+  font-size: 16px;
+  margin-top: 6px;
+}
+
+.wrapper-home-title .more-btn:hover {
+  color: #ff552e;
+}
+li{
+  list-style: none;
+}
+
+
+.demand-all-box li{
+  border: 1px solid #ccc;
+  margin: 10px 0;
+  padding: 30px;
+  cursor: pointer;
+  transition: all .5s;
+}
+.demand-all-box li:hover {
+  background-color: #eee;
+  transition: all .5s;
+  animation: downUp 0.5s 2;
+}
+.demand-all-box p {
+  margin-bottom: 0;
+}
+.demand-all-box .content {
+  display: flex;
+  justify-content: space-between;
+}
+.demand-all-box .first {
+  display: flex;
+  flex-direction: column;
+}
+.demand-all-box .first .type {
+  font-size: 18px;
+  font-weight: 400;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  vertical-align: middle;
+}
+.demand-all-box .first .type span {
+  margin-left: 10px;
+}
+.demand-all-box .other{
+  font-size: 14px;
+  display: flex;
+  margin-top: 10px;
+}
+.demand-all-box .other .fg {
+  margin: 0 10px;
+  color: #ccc;
+}
+.demand-all-box .second {
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+}
+.demand-all-box .second .con {
+  overflow: hidden;
+  -ms-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@keyframes downUp {
+  0% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+
+

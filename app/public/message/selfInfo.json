@@ -1,0 +1,18 @@
+{
+  "data": {
+    "name": "Twist Chen",
+    "address": "565420808@qq.com",
+    "credit": "100",
+    "shippingAddress": "重庆永川城市科技学院",
+    "balance": "5.20",
+    "qrcode": "http://localhost:4433/adChina/images/20190419203520.jpg",
+    "images": [
+      {
+        "url": "http://localhost:4433/adChina/images/bf096b63f6246b60dd39eb74e0f81a4c510fa2ff.jpg"
+      },
+      {
+        "url": "http://localhost:4433/adChina/images/6c6bac090c42941bbe066051e8f495fa.jpg"
+      }
+    ]
+  }
+}

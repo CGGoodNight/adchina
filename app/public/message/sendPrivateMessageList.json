@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "apply_id": 1,
+      "accept_id": 4,
+      "content": "1发给4",
+      "pubtime": "2019-04-20 18:00:09",
+      "name": "zhang",
+      "avatar": "adchina_avatar/image_36c181e5cc55ba49367e8e3dab6bafa5.png"
+    },
+    {
+      "apply_id": 1,
+      "accept_id": 3,
+      "content": "1发给3",
+      "pubtime": "2019-04-20 14:00:09",
+      "name": "li",
+      "avatar": "adchina_avatar/image_36c181e5cc55ba49367e8e3dab6bafa5.png"
+    }
+  ]
+}
